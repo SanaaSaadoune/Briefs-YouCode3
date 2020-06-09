@@ -1,0 +1,5 @@
+1) Premièrement, j'ai commencé par installer la dernière version de WordPress.
+2) Deuxièment, j'ai décompressé le dossier installé, et j'ai mis ses fichiers dans un dossier nommé PremierSiteCms qui se trouve dans le dossier WWW.
+3) J'ai crée ensuite une base de donnée nommée bdsitecms.
+4) J'ai ouvert ensuite le dossier PremierSiteCms dans localhost et puis j'ai renseigné les informations demandées comme le nom de l'utilisateur, le mot de passe et le nom de la base de donnée ...
+5) Enfin, après que l'installation soit terminée, la page de WordPress est ouverte, et c'est là que j'ai installé le thème "Neve", et le Pluging "Resume Builder" pour le CV.
