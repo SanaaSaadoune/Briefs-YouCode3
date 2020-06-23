@@ -4,5 +4,5 @@
 5) Après que l'installation est terminée, j'ai commencé par installé le pluging WooCommerce, après j'ai installé le thème ASTRA qui convient à ce pluging.
 6) J'ai choisi de travailler sur une boutique de vente des vêtements de sport (C4S Clothes for Sport).J'ai commencé tout d'abord par changer le contenu de la page d'accueil, la boutique des hommes et femmes ainsi que la catégorie des accessoires.
 7) J'ai ensuite installé le pluging Yoast SEO pour l'optimisation de moteur de recherche.
-8) Après, j'ai installé le pluging Polylang qui permet une utilisation multilingue de WordPress.
+8) Après, j'ai installé le pluging Weglot qui permet une utilisation multilingue de WordPress.
 9) Et enfin, j'ai installé le pluging GDPR Cookie Consent pour l'utilisation des cookies.

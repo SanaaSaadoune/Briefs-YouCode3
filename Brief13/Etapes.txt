@@ -1,0 +1,6 @@
+1) J'ai commencé par installer wordpress et renseigner les informations demandées.
+2) J'ai ajouté le dossier footer qui contient la page footer.php et index.php dans le dossier de plugings.
+3) J'ai ajouté l'instruction if(!defined('ABSPATH')){ exit; } pour bloquer l'acces direct.
+4) J'ai ensuite activé mon pluging depuis Dashboard de mon site wordpress
+5) Après, j'ai modifié les fichiers footer et index afin d'avoir des champs de saisie pour personnalisé les informations du footer (j'ai ajouté powered by et mon lien linkedIn)
+6) Et enfin j'ai ajouté une icon pour le pluging depuis dashicons.
